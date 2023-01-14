@@ -1,0 +1,29 @@
+[[nav]]
+  name = "Posts"
+  url = "post/"
+  weight = 1
+[[nav]]
+  name = "Tags"
+  url = "tags/"
+  weight = 2
+[[nav]]
+  name = "Categories"
+  url = "categories/"
+  weight = 3
+[[nav]]
+  name = "Search"
+  url = "search/"
+  weight = 4
+[[nav]]
+  name = "RSS"
+  url = "index.xml"
+  weight = 5
+[[nav]]
+  name = "Blog"
+  url = "https://www.softinio.com"
+  weight = 6
+[[nav]]
+  name = "Newsletter"
+  url = "https://notes.softinio.com"
+  weight = 7
+

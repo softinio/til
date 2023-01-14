@@ -1,0 +1,10 @@
+github.com/julmot/mark.js v0.0.0-20210820195258-8b57fccf976b/go.mod h1:aAyDyl2EhNPiZbFqqURsAmxYwwTHslrIxZErXMO3pJQ=
+github.com/kaushalmodi/hugo-search-fuse-js v0.4.4 h1:zEnFYi9DYMoHLsMOf5QqXcQJnfEYGaNanqjnTjlJjto=
+github.com/kaushalmodi/hugo-search-fuse-js v0.4.4/go.mod h1:Wr6gbPat+KW6wReh/hDBykKIWn296FsEkuhojJvHHxw=
+github.com/krisk/Fuse v3.2.1+incompatible/go.mod h1:3moWv8rDjwoKic9nwiPLgZjldkbdTAbtzJHCu/Vsj4A=
+github.com/softinio/hugo-flex v0.0.0-20230114195429-f916e63c9f5f h1:ssQ1I/I/lSTyoRPLAoifjbBerpPB7+H16Cg2eG4QXtw=
+github.com/softinio/hugo-flex v0.0.0-20230114195429-f916e63c9f5f/go.mod h1:7oG1h1CbktcjWh/Kqd8lGob3A0lX7J8S+keuL5Gftms=
+github.com/softinio/hugo-flex v0.0.0-20230114220610-c590a4cdb165 h1:qsEkrbF/GIgC3886QSGjTAOQ2EB8La8WCVN1L2lxzcc=
+github.com/softinio/hugo-flex v0.0.0-20230114220610-c590a4cdb165/go.mod h1:7oG1h1CbktcjWh/Kqd8lGob3A0lX7J8S+keuL5Gftms=
+github.com/softinio/hugo-flex v0.0.0-20230114223516-041547d5ef1f h1:S8DhCVsjxDWt0tUyJ7a7PI87sxmLpOkh3W8YOHBX8CE=
+github.com/softinio/hugo-flex v0.0.0-20230114223516-041547d5ef1f/go.mod h1:7oG1h1CbktcjWh/Kqd8lGob3A0lX7J8S+keuL5Gftms=
