@@ -2,8 +2,6 @@ color =  "orange"           # Any color in CSS syntax
 width =  "52rem"          # Any length in CSS syntax
 rss =  """To subscribe to this RSS feed, copy its address and paste it into your
   favorite feed reader."""
-summaries =  false      # Set to true to show summaries of posts on homepage
-divider =  false          # Set to false to remove divider below posts on homepage
 schema =  true         # Set to true to add Schema.org metadata
 opengraph =  true      # Set to true to add Open Graph metadata
 twittercards =  true   # Set to true to add Twitter Cards metadata

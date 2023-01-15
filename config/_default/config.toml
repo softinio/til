@@ -1,5 +1,5 @@
 baseURL = 'https://til.softinio.com/'
-languageCode = 'en-us'
+languageCode = 'en'
 title = 'Salar Rahmanian: Today I Learned | TIL'
 
 enableRobotsTXT = true
@@ -14,6 +14,4 @@ filename = "sitemap.xml"
 [module]
 [[module.imports]]
   path = 'github.com/softinio/hugo-flex'
-[[module.imports]]
-  path = 'github.com/kaushalmodi/hugo-search-fuse-js'
 

@@ -1,19 +1,19 @@
 [[nav]]
-  name = "Posts"
-  url = "post/"
+  name = "TILs"
+  url = "tils/"
   weight = 1
 [[nav]]
-  name = "Tags"
+  name = "Topics"
   url = "tags/"
   weight = 2
 [[nav]]
   name = "Categories"
   url = "categories/"
   weight = 3
-[[nav]]
-  name = "Search"
-  url = "search/"
-  weight = 4
+# [[nav]]
+#   name = "Search"
+#   url = "search/"
+#   weight = 4
 [[nav]]
   name = "RSS"
   url = "index.xml"
