@@ -1,3 +1,5 @@
+![GitHub Pages](https://github.com/softinio/til/workflows/github%20pages/badge.svg)
+
 # til | <https://til.softinio.com> 
 
 [Things I have learned.](https://til.softinio.com) 
